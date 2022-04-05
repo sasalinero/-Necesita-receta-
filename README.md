@@ -1,16 +1,17 @@
-# <h1 align="center">¿Necesita Receta?</h1>
+# <h1 align="center">:scroll: ¿Necesita Receta? :scroll:</h1>
 
-# ¿De qué trata este proyecto?
+<p align="center"><img src="https://media.giphy.com/media/H0ZeXBzk6ykIsBlo1k/giphy.gif" alt="gif"  width="250px"/> </p>
 
-Este proyecto es un buscador de medicamentos, ya sea por nombre o principio activo con una llamada a una API oficial de CIMA(El Centro de Información online de Medicamentos Autorizados de la Agencia Española de Medicamentos y Productos Sanitarios).
+# De qué trata este proyecto:
 
-<a href=https://cima.aemps.es/cima/rest/medicamentos?&multiple>CIMA</a>
+Este proyecto es un buscador de medicamentos, ya sea por nombre o principio activo con una llamada a una API oficial de <a href=https://cima.aemps.es/cima/rest/medicamentos?&multiple>CIMA</a>(El Centro de Información online de Medicamentos Autorizados de la Agencia Española de Medicamentos y Productos Sanitarios).
+
 
 # ¿Qué se pude ver?
 
 Aquí podrás comprobar si el medicamento que has buscado:
 
-- Necesita receta (un recurso muy necesario).0
+- Necesita receta (un recurso muy necesario).
 - Una imagen del medicamento. 
 - Y la ficha técnica del medicamento, igual que el prospecto. 
 - Además podrás guardar como favoritos los que uses habitualmente para tenerlos más a mano y no tener que buscarlos constantemente. 
@@ -24,7 +25,7 @@ Aquí podrás comprobar si el medicamento que has buscado:
 
 ## Autor ✒️
 
-:heart: Samantha Salinero [Github](https://github.com/sasalinero)
+:heart: Samantha Salinero [Github](https://github.com/sasalinero):heart:
 
 ## Contacto 📱
 
